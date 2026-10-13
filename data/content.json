@@ -1,0 +1,446 @@
+{
+  "meta": {
+    "title": "Recuperar tu **movimiento**",
+    "subtitle": "Una guía para entender, elegir y acompañar tu cuidado articular",
+    "author": "Dr. Paul Edgar Cuéllar Cabrera",
+    "url": "https://consultasdrpaulcuellar-pixel.github.io/recuperar-tu-movimiento/",
+    "publisher": "Dr. Paul Cuéllar · Ortopedia, Traumatología y Medicina Regenerativa",
+    "lang": "es-AR",
+    "shortTitle": "Recuperar tu movimiento",
+    "htmlTitle": "Recuperar tu movimiento — Dr. Paul Cuéllar",
+    "coverKicker": "Dr. Paul Edgar Cuéllar Cabrera · Ortopedia, Traumatología y Medicina Regenerativa",
+    "logo": "images/icon_dr_cuellar.svg",
+    "logoAlt": "Dr. Paul Cuéllar",
+    "coverImage": "images/portada.jpg",
+    "coverAspect": "16:9",
+    "coverImageAlt": "Una mujer de unos sesenta años camina con paso tranquilo por un sendero arbolado a primera hora de la mañana.",
+    "readingTimeMinutes": 19,
+    "startLabel": "Comenzar el recorrido",
+    "ui": {
+      "offlineHint": "Podés leerlo sin conexión después de abrirlo por primera vez.",
+      "installIos": "En iPhone o iPad: tocá el botón Compartir y luego «Agregar a inicio».",
+      "installAndroid": "En Android: abrí el menú ⋮ del navegador y elegí «Instalar app» o «Agregar a pantalla principal».",
+      "installDesktop": "En computadora: usá el ícono de instalar al final de la barra de direcciones, o el menú del navegador → «Instalar» (Chrome, Edge). En Safari: Archivo → «Agregar al Dock».",
+      "consentRequired": "Marcá la casilla para continuar.",
+      "reflectionPlaceholder": "Escribí tu respuesta acá...",
+      "diagUnlocked": "¡Gracias! Ya podés ver tu resultado.",
+      "blockError": "Este bloque no se pudo mostrar. Revisá su formato en data/content.json."
+    },
+    "leads": {
+      "consent": {
+        "text": "Acepto que mi nombre, mi correo y este registro se envíen para recibir una copia y para que el consultorio del Dr. Cuéllar pueda contactarme. Es información sobre mi salud y la envío por decisión propia.",
+        "required": true
+      }
+    }
+  },
+  "chapters": [
+    {
+      "id": "tu-recorrido",
+      "title": "Tu recorrido",
+      "kicker": "Antes de empezar",
+      "numbered": false,
+      "hero": {
+        "src": "images/tu-recorrido-hero.jpg",
+        "alt": "Un sendero de parque con luz suave de la mañana y, a lo lejos, una persona que camina de espaldas.",
+        "aspect": "16:9"
+      },
+      "blocks": [
+        { "type": "lead", "text": "Este libro te acompaña a conocer tu punto de partida, comprender las opciones de atención y participar en tu seguimiento. El objetivo es que puedas conversar con tu médico con más claridad y tomar decisiones informadas sobre tu bienestar." },
+        { "type": "quote", "text": "“Una vida sin dolor… es posible.”" },
+        { "type": "note", "text": "**Información educativa:** este contenido y el Test de Limitación Articular Funcional no reemplazan un diagnóstico, una consulta médica ni las indicaciones de tu equipo tratante. Ningún puntaje permite elegir por sí solo un procedimiento. Los resultados de los tratamientos varían entre personas; no se garantiza eliminar las molestias, regenerar tejidos ni evitar otras intervenciones." },
+        { "type": "image", "id": "tu-recorrido-1", "src": "images/tu-recorrido-1.jpg", "alt": "Manos de una persona mayor sostienen una libreta abierta y una lapicera sobre una mesa de madera clara.", "aspect": "4:3" },
+        { "type": "heading", "text": "Tu recorrido" },
+        { "type": "list", "items": [
+          "**0.** [¿Dónde estás hoy? Tu Test Funcional](#capitulo-0)",
+          "**1.** [Entender: tu cuerpo y su capacidad de reparación](#capitulo-1)",
+          "**2.** [Conocer: qué propone la medicina regenerativa](#capitulo-2)",
+          "**3.** [Elegir: las herramientas y sus límites](#capitulo-3)",
+          "**4.** [Acompañar: alimentación, movimiento y salud metabólica](#capitulo-4)",
+          "**5.** [Prepararte: antes, durante y después del procedimiento](#capitulo-5)",
+          "**6.** [Seguir: medir los cambios y revisar el plan](#capitulo-6)",
+          "**7.** [Tu ficha de consulta y cuidado](#capitulo-7)"
+        ] },
+        { "type": "paragraph", "text": "Podés leerlo de principio a fin o volver al capítulo que necesites. Guardá tu primera evaluación para compararla durante el seguimiento." }
+      ]
+    },
+    {
+      "id": "capitulo-0",
+      "title": "¿Dónde estás hoy? Tu Test Funcional",
+      "kicker": "Capítulo 0",
+      "number": 0,
+      "hero": {
+        "src": "images/capitulo-0-hero.jpg",
+        "alt": "Un hombre de unos sesenta años se detiene al pie de una escalera de su casa, con una mano apoyada en la baranda.",
+        "aspect": "16:9"
+      },
+      "blocks": [
+        { "type": "heading", "text": "El dolor también se mide" },
+        { "type": "lead", "text": "A veces los cambios aparecen de a poco: subir una escalera cuesta más, levantarte de una silla requiere apoyo o vestirte lleva más tiempo. Registrar esas experiencias ayuda a explicarlas en la consulta." },
+        { "type": "paragraph", "text": "El Test de Limitación Articular Funcional reúne una valoración del dolor y preguntas sobre rigidez y actividades cotidianas. Es una fotografía de cómo te sentís en un momento determinado. No muestra el estado del cartílago, no identifica la causa de los síntomas y no predice cuánto podés mejorar." },
+        { "type": "paragraph", "text": "La campaña propone realizarlo en [drpaulcuellar.com.ar/test](https://drpaulcuellar.com.ar/test). También podés registrar las respuestas con la guía de este capítulo y llevarlas a tu consulta." },
+        { "type": "image", "id": "capitulo-0-1", "src": "images/capitulo-0-1.jpg", "alt": "Una mujer mayor se apoya con ambas manos en los brazos de un sillón para ponerse de pie.", "aspect": "4:3" },
+        { "type": "heading", "text": "Antes de comenzar" },
+        { "type": "paragraph", "text": "Elegí la articulación o zona que querés comentar con el médico y anotala junto con la fecha. Para comparar resultados, mantené esa misma referencia. Si tenés molestias en varias zonas, aclaralo en la consulta: un único resultado puede no representar todas tus dificultades." },
+        { "type": "paragraph", "text": "Pensá en **las últimas 48 horas**, equivalentes a los últimos dos días. Respondé según lo que realmente experimentaste, con la medicación y los apoyos que usaste habitualmente. No necesitás probar actividades que te resulten difíciles para contestar." },
+        { "type": "note", "text": "**No suspendas medicamentos para hacer el test ni fuerces movimientos para comprobar tu respuesta.** Si una actividad no ocurrió en ese período, registralo como observación en lugar de inventar una experiencia." },
+        { "type": "heading", "text": "Paso 1. Registrá la intensidad del dolor" },
+        { "type": "paragraph", "text": "La versión web aportada utiliza una barra de **0 a 100**, identificada como VAS:" },
+        { "type": "list", "items": [
+          "**0:** sin dolor.",
+          "**100:** el peor dolor imaginable."
+        ] },
+        { "type": "paragraph", "text": "La pregunta es: **“Considerando tus medicamentos, ¿qué nivel de dolor sentiste en las últimas 48 horas?”** Mové la barra hasta el valor que mejor represente tu experiencia y anotá ese número." },
+        { "type": "paragraph", "text": "En las piezas de campaña, la escala aparece de 0 a 10. Para evitar confusiones, este libro utiliza 0 a 100, como la versión web: 5 sobre 10 equivale numéricamente a 50 sobre 100. Siempre anotá la escala que usaste." },
+        { "type": "paragraph", "text": "No hay una respuesta correcta ni un valor que debas alcanzar. Tu percepción es información útil para el equipo tratante." },
+        { "type": "heading", "text": "Paso 2. Contá qué medicación usás" },
+        { "type": "paragraph", "text": "Indicá si tomás analgésicos o antiinflamatorios para estas molestias. Anotá el nombre, la dosis que tenés indicada y cuándo los tomaste durante el período evaluado." },
+        { "type": "paragraph", "text": "La versión web pregunta qué porcentaje de alivio estimás que te proporciona la medicación. Esa respuesta es una percepción personal: no permite calcular con certeza cuánto dolor tendrías sin tratamiento. Si no sabés estimarlo o no percibís alivio, aclaralo." },
+        { "type": "note", "text": "**Un “dolor basal proyectado” por una fórmula no es una medición real.** Tampoco demuestra que exista una lesión más grave. Para el seguimiento, conservá sobre todo el dolor que efectivamente sentiste y el registro de medicamentos." },
+        { "type": "heading", "text": "Paso 3. Respondé las seis preguntas" },
+        { "type": "paragraph", "text": "La versión aportada incluye estas preguntas:" },
+        { "type": "table", "headers": ["N.º", "Pregunta sobre los últimos dos días"], "rows": [
+          ["1", "Al caminar por un terreno llano, ¿qué nivel de dolor sentís?"],
+          ["2", "¿Cuánto dolor sentís por la noche, estando acostado?"],
+          ["3", "¿Cuánta rigidez notás después de despertarte por la mañana?"],
+          ["4", "¿Qué grado de dificultad tenés al subir o bajar escaleras?"],
+          ["5", "¿Qué grado de dificultad tenés al levantarte después de estar sentado?"],
+          ["6", "¿Qué grado de dificultad tenés al ponerte las medias o los calcetines?"]
+        ] },
+        { "type": "paragraph", "text": "Para cada pregunta elegí una respuesta:" },
+        { "type": "table", "headers": ["Respuesta", "Puntos"], "alignLast": "right", "rows": [
+          ["Ninguno", "0"],
+          ["Poco", "1"],
+          ["Bastante", "2"],
+          ["Mucho", "3"],
+          ["Muchísimo", "4"]
+        ] },
+        { "type": "paragraph", "text": "Respondé las seis preguntas antes de interpretar un resultado. Si alguna no describe tu situación, anotá la dificultad para responder y comentala con el médico. Una respuesta faltante no debe contarse como cero." },
+        { "type": "paragraph", "text": "Este cuestionario está **inspirado en WOMAC**, una herramienta para valorar síntomas y función articular. Las seis preguntas de la web constituyen una versión abreviada; los materiales aportados no documentan su validación como equivalente al WOMAC completo. Por eso, aquí lo llamamos **cuestionario funcional abreviado**." },
+        { "type": "image", "id": "capitulo-0-2", "src": "images/capitulo-0-2.jpg", "alt": "Una mano anota con lapicera en una libreta, junto a un par de anteojos y una taza, sobre una mesa de cocina.", "aspect": "4:3" },
+        { "type": "heading", "text": "Paso 4. Guardá tu punto de partida" },
+        { "type": "paragraph", "text": "La suma de las seis respuestas puede ir de **0 a 24 puntos**. Un número mayor expresa más síntomas o dificultades en esas preguntas. No representa un porcentaje de daño articular." },
+        { "type": "paragraph", "text": "Guardá por separado:" },
+        { "type": "list", "items": [
+          "Dolor percibido: ___ /100.",
+          "Respuestas: 1 ___; 2 ___; 3 ___; 4 ___; 5 ___; 6 ___.",
+          "Suma del cuestionario abreviado, si está completo: ___ /24.",
+          "Medicación utilizada y observaciones: ___."
+        ] },
+        { "type": "paragraph", "text": "La web también combina valores en un índice porcentual y asigna categorías. Es un cálculo propio de esa implementación: **no debe leerse como diagnóstico, porcentaje de articulación dañada o probabilidad de éxito de un tratamiento**. Los materiales no aportan validación clínica de ese índice ni de sus umbrales." },
+        { "type": "paragraph", "text": "Un resultado bajo no descarta un problema que necesite atención. Un resultado alto no demuestra que necesites una terapia celular, una prótesis u otro procedimiento. Si las molestias afectan tu descanso o tus actividades, llevá el registro a una consulta para evaluar su causa." },
+        {
+          "type": "functest",
+          "id": "test-inicial",
+          "eyebrow": "Test de Limitación Articular Funcional",
+          "title": "Registrar mi punto de partida",
+          "intro": "Completá el registro acá mismo. Queda guardado solo en este dispositivo, para que lo lleves a tu consulta y lo compares más adelante.",
+          "defaultMoment": "Inicial",
+          "diaryUrl": "#capitulo-6",
+          "fichaUrl": "#capitulo-7"
+        },
+        { "type": "note", "text": "**Tu siguiente paso:** elegí una actividad que quieras recuperar y escribila con tus palabras. Por ejemplo: “Quiero levantarme de la silla con más comodidad”. Ese objetivo será una referencia para el seguimiento." }
+      ]
+    },
+    {
+      "id": "capitulo-1",
+      "title": "Entender: tu cuerpo y su capacidad de reparación",
+      "kicker": "Capítulo 1",
+      "number": 1,
+      "hero": {
+        "src": "images/capitulo-1-hero.jpg",
+        "alt": "Una mujer de unos cincuenta y cinco años estira los brazos junto a una ventana con luz de la mañana.",
+        "aspect": "16:9"
+      },
+      "blocks": [
+        { "type": "heading", "text": "Reparar es un proceso" },
+        { "type": "lead", "text": "Los tejidos tienen mecanismos de reparación. Cuando se produce una lesión, el cuerpo organiza una respuesta que incluye inflamación inicial, formación de tejido y reorganización de ese tejido con el tiempo. Estas etapas se superponen y necesitan coordinación." },
+        { "type": "paragraph", "text": "La inflamación inicial cumple una función: ayuda a preparar la zona para reparar. Distinta es una inflamación de baja intensidad que se mantiene durante mucho tiempo y puede dificultar ese equilibrio." },
+        { "type": "paragraph", "text": "Por eso, hablar de cuidado articular también implica mirar cómo está el organismo en su conjunto. La articulación recibe cargas al movernos y participa de un entorno biológico que puede influir en su evolución." },
+        { "type": "image", "id": "capitulo-1-1", "src": "images/capitulo-1-1.jpg", "alt": "Primer plano de unas manos que rodean con cuidado una rodilla, sentada la persona en el borde de una cama.", "aspect": "4:3" },
+        { "type": "heading", "text": "Qué significa el “terreno” del tejido" },
+        { "type": "paragraph", "text": "En este libro, “terreno” significa las condiciones en las que se encuentra el tejido: su entorno de inflamación, el estado metabólico y las cargas que recibe. No es una medida única ni algo que el test pueda diagnosticar." },
+        { "type": "paragraph", "text": "El metabolismo es la manera en que el cuerpo utiliza y administra energía y nutrientes. Cuando el azúcar en sangre permanece elevado o el organismo responde con dificultad a la insulina, pueden cambiar procesos relacionados con la reparación. La insulina es una hormona que ayuda a regular ese azúcar." },
+        { "type": "paragraph", "text": "El tejido graso también participa en señales inflamatorias. En algunas personas con obesidad, estas señales y la carga mecánica sobre las articulaciones pueden influir en la evolución de los síntomas." },
+        { "type": "note", "text": "**Estos factores no definen tu valor como persona ni hacen inevitable un mal resultado.** La investigación aportada describe respuestas favorables al PRP en personas con obesidad o diabetes. También señala diferencias en la duración de los beneficios en ciertos grupos estudiados." },
+        { "type": "heading", "text": "Lo que podemos afirmar con prudencia" },
+        { "type": "paragraph", "text": "El estado metabólico puede influir en el entorno de reparación. Eso no permite concluir que un alimento, un suplemento o unas semanas de preparación vuelvan más potente un tratamiento." },
+        { "type": "paragraph", "text": "Tampoco podemos trasladar directamente a las personas fenómenos observados en otras especies. La alimentación de las abejas y el desarrollo de una reina no demuestran que una dieta regenere una articulación humana o mejore la respuesta al PRP." },
+        { "type": "note", "text": "**Para tu consulta:** contá si tenés diabetes, cambios de peso u otros antecedentes metabólicos. Ayudan a comprender tu situación y a decidir qué conviene evaluar." }
+      ]
+    },
+    {
+      "id": "capitulo-2",
+      "title": "Conocer: qué propone la medicina regenerativa",
+      "kicker": "Capítulo 2",
+      "number": 2,
+      "hero": {
+        "src": "images/capitulo-2-hero.jpg",
+        "alt": "Un consultorio médico luminoso y ordenado, con dos sillas enfrentadas y una camilla al fondo.",
+        "aspect": "16:9"
+      },
+      "blocks": [
+        { "type": "heading", "text": "Una mirada sobre los procesos de reparación" },
+        { "type": "lead", "text": "La medicina regenerativa aplicada al sistema musculoesquelético estudia y utiliza herramientas biológicas para influir en procesos relacionados con la reparación de articulaciones, tendones y ligamentos. La palabra **ortobiología** se refiere a ese uso de recursos biológicos en ortopedia." },
+        { "type": "paragraph", "text": "Algunas herramientas utilizan componentes del propio paciente, como el plasma rico en plaquetas. Su propósito puede incluir disminuir síntomas y mejorar la función, según el problema tratado y la evidencia disponible para esa indicación." },
+        { "type": "paragraph", "text": "El nombre de una técnica no garantiza que reconstruya cartílago o restituya un tejido a su estado original. **Sentirte mejor y demostrar regeneración estructural son resultados diferentes.** Una mejoría en el test informa sobre tu experiencia, no demuestra por sí sola que el tejido se haya regenerado." },
+        { "type": "heading", "text": "Qué podés esperar de una evaluación" },
+        { "type": "paragraph", "text": "La consulta empieza por escucharte: dónde aparecen las molestias, cómo evolucionaron, qué actividades cambiaron y qué tratamientos realizaste. El médico examina la zona y decide qué información adicional necesita." },
+        { "type": "paragraph", "text": "Luego puede explicarte las alternativas, qué objetivos son razonables y qué incertidumbres existen. No todas las personas necesitan el mismo procedimiento, y un plan puede combinar herramientas de cuidado y seguimiento." },
+        { "type": "paragraph", "text": "Los tratamientos para aliviar síntomas también pueden formar parte de la atención. La decisión debe considerar tu situación completa, en lugar de ordenar todas las opciones como si una fuera siempre superior a las demás." },
+        { "type": "image", "id": "capitulo-2-1", "src": "images/capitulo-2-1.jpg", "alt": "Un médico, visto de espaldas, escucha a una paciente de unos sesenta años que le explica algo con las manos.", "aspect": "4:3" },
+        { "type": "heading", "text": "Esperanza con transparencia" },
+        { "type": "paragraph", "text": "La investigación aportada diferencia tres ideas:" },
+        { "type": "list", "items": [
+          "**Hay observaciones clínicas:** características como la obesidad se han asociado con diferencias en la evolución de algunos pacientes tratados con PRP.",
+          "**Hay explicaciones biológicas plausibles:** mejorar el entorno metabólico y corregir deficiencias puede favorecer condiciones generales de reparación.",
+          "**Hay hipótesis aún sin demostración directa:** una dieta breve o una pérdida de peso previa no han demostrado, en los estudios descritos, aumentar específicamente la eficacia del PRP."
+        ] },
+        { "type": "paragraph", "text": "Conocer estos límites permite decidir con expectativas realistas. El objetivo es construir un plan que tenga sentido para vos y revisar cómo respondés." }
+      ]
+    },
+    {
+      "id": "capitulo-3",
+      "title": "Elegir: las herramientas y sus límites",
+      "kicker": "Capítulo 3",
+      "number": 3,
+      "hero": {
+        "src": "images/capitulo-3-hero.jpg",
+        "alt": "Una mesa de trabajo clínica, limpia y ordenada, con tubos de muestra en una gradilla bajo luz natural.",
+        "aspect": "16:9"
+      },
+      "blocks": [
+        { "type": "heading", "text": "Plasma rico en plaquetas: PRP" },
+        { "type": "lead", "text": "El PRP se obtiene a partir de una muestra de tu sangre. Esa muestra se procesa para concentrar plaquetas, pequeños componentes sanguíneos que participan en la coagulación y liberan señales relacionadas con la reparación. Algunas de esas señales se llaman **factores de crecimiento**." },
+        { "type": "paragraph", "text": "Que se utilice tu propia sangre no significa que el procedimiento esté libre de riesgos. Antes de aplicarlo, necesitás conocer cómo se hará, qué beneficios se esperan en tu caso y qué molestias o complicaciones se deben considerar." },
+        { "type": "paragraph", "text": "La investigación describe diferencias entre pacientes y entre métodos de preparación. Tener más plaquetas o medir determinados factores en el laboratorio no equivale automáticamente a obtener una mayor mejoría." },
+        { "type": "paragraph", "text": "En algunos estudios descritos sobre artrosis de rodilla —cambios en la articulación que pueden afectar su funcionamiento— hubo mejorías iniciales tanto en personas con obesidad como sin ella. Las diferencias posteriores no permiten anticipar exactamente cuánto durará el beneficio en una persona concreta." },
+        { "type": "image", "id": "capitulo-3-1", "src": "images/capitulo-3-1.jpg", "alt": "Detalle de una mano con guante que sostiene un tubo de muestra con plasma de color ámbar.", "aspect": "4:3" },
+        { "type": "heading", "text": "Proloterapia" },
+        { "type": "paragraph", "text": "La proloterapia consiste en aplicaciones destinadas a provocar una respuesta local controlada, con la intención de estimular procesos de reparación, particularmente en estructuras como tendones y ligamentos." },
+        { "type": "paragraph", "text": "La arquitectura aportada la incluye entre las opciones a explicar. Sin embargo, la investigación entregada se concentra en PRP y metabolismo: no permite atribuir a la proloterapia las mismas conclusiones ni prometer resultados equivalentes." },
+        { "type": "paragraph", "text": "Si se considera para vos, preguntá qué sustancia se utilizará, por qué se propone para esa zona, qué evidencia respalda la indicación y cómo se evaluará la respuesta." },
+        { "type": "heading", "text": "Terapias celulares" },
+        { "type": "paragraph", "text": "Las terapias celulares utilizan preparaciones que contienen células. No todas las preparaciones son iguales y no deben agruparse bajo una única promesa de “células madre”." },
+        { "type": "paragraph", "text": "La arquitectura las menciona para situaciones osteoarticulares complejas. Eso no implica que sean la elección automática para una artrosis avanzada o para un puntaje elevado del test. Los materiales aportados no justifican garantizar reconstrucción del cartílago, beneficios de dos o tres años ni reemplazo de otros tratamientos." },
+        { "type": "paragraph", "text": "Antes de decidir, pedí una explicación sobre el origen y procesamiento de las células, la evidencia para tu indicación, los riesgos, las alternativas y las condiciones de uso aplicables al procedimiento propuesto." },
+        { "type": "image", "id": "capitulo-3-2", "src": "images/capitulo-3-2.jpg", "alt": "Una paciente, de perfil, lee una hoja con atención sentada frente al escritorio de un consultorio.", "aspect": "4:3" },
+        { "type": "heading", "text": "Las preguntas que te ayudan a elegir" },
+        { "type": "table", "stack": true, "headers": ["Tu pregunta", "Qué conviene aclarar"], "rows": [
+          ["¿Soy candidato?", "El diagnóstico, el examen y las características de tu situación; el test no lo decide."],
+          ["¿Cuántas sesiones necesito?", "La propuesta individual y los motivos para revisarla; no hay un número universal en estas fuentes."],
+          ["¿Cuánto puede durar el beneficio?", "Lo observado para esa indicación y la incertidumbre para tu caso."],
+          ["¿Qué otras opciones tengo?", "Las alternativas y sus ventajas, límites y riesgos."],
+          ["¿Cómo sabremos si funciona?", "Objetivos concretos, evaluación clínica y seguimiento del dolor y la función."]
+        ] },
+        { "type": "note", "text": "**Antes de aceptar:** asegurate de entender qué se propone y por qué. Podés pedir que te lo expliquen nuevamente con palabras sencillas." }
+      ]
+    },
+    {
+      "id": "capitulo-4",
+      "title": "Acompañar: alimentación, movimiento y salud metabólica",
+      "kicker": "Capítulo 4",
+      "number": 4,
+      "hero": {
+        "src": "images/capitulo-4-hero.jpg",
+        "alt": "Una mesa de cocina con verduras frescas, legumbres, pescado y frutos secos, iluminada por la luz de una ventana.",
+        "aspect": "16:9"
+      },
+      "blocks": [
+        { "type": "heading", "text": "Cuidar el organismo que debe responder" },
+        { "type": "lead", "text": "Una alimentación suficiente y variada, el movimiento adaptado, el descanso y la atención de problemas metabólicos forman parte del cuidado general. La investigación explica por qué estas condiciones son relevantes para los tejidos." },
+        { "type": "paragraph", "text": "Su valor no depende de prometer que aumentarán la potencia del PRP. En particular, los materiales no demuestran que un programa de dos a cuatro semanas antes del procedimiento mejore directamente sus resultados." },
+        { "type": "paragraph", "text": "Tampoco corresponde atribuir una respuesta insuficiente a que el paciente “no se cuidó”. La evolución depende de varios factores, algunos modificables y otros fuera de tu control." },
+        { "type": "heading", "text": "Alimentación: una base sostenible" },
+        { "type": "paragraph", "text": "El patrón alimentario descrito en la investigación incluye verduras, frutas, legumbres, pescado, frutos secos, fibra y otras fuentes de proteínas. También propone reducir el predominio de ultraprocesados, azúcares añadidos y productos refinados." },
+        { "type": "paragraph", "text": "Las proteínas aportan materiales para mantener y reparar tejidos. Las vitaminas y minerales participan en distintos procesos del organismo. La cantidad y selección de alimentos deben adaptarse a tus necesidades y antecedentes." },
+        { "type": "image", "id": "capitulo-4-1", "src": "images/capitulo-4-1.jpg", "alt": "Unas manos cortan verduras de colores sobre una tabla de madera en una cocina de casa.", "aspect": "4:3" },
+        { "type": "paragraph", "text": "Podés empezar por observar qué alimentos aparecen habitualmente en tus comidas y llevar esas dudas a una consulta nutricional. El propósito es encontrar cambios posibles de sostener, sin convertir cada comida en un examen." },
+        { "type": "paragraph", "text": "La arquitectura menciona limitar lácteos y fructosa. La investigación aportada no sustenta una exclusión universal de lácteos ni de frutas enteras para mejorar el PRP. Las restricciones necesitan un motivo individual; no se proponen aquí como requisito para “regenerar”." },
+        { "type": "heading", "text": "Peso y azúcar en sangre" },
+        { "type": "paragraph", "text": "Cuando está indicada, una reducción de peso puede disminuir la carga sobre las articulaciones y beneficiar el estado metabólico. Esos beneficios pueden ocurrir independientemente de un procedimiento." },
+        { "type": "paragraph", "text": "Eso es diferente de demostrar que perder peso aumenta específicamente la eficacia biológica del PRP. La investigación no aporta una comparación directa que permita afirmar esa relación como resultado garantizado." },
+        { "type": "paragraph", "text": "Si tenés diabetes o dificultades en el control del azúcar, conversá con tu equipo tratante. El plan debe acompañar tu salud general; no se trata de modificar bruscamente tu alimentación o medicación para obtener una muestra de sangre “mejor”." },
+        { "type": "heading", "text": "Suplementos: primero, una necesidad concreta" },
+        { "type": "paragraph", "text": "La investigación distingue **corregir una deficiencia** de consumir dosis elevadas sin necesidad demostrada. Más cantidad no equivale a más reparación." },
+        { "type": "table", "stack": true, "headers": ["Producto mencionado en los materiales", "Qué conviene recordar"], "rows": [
+          ["Vitamina D", "Corregir una deficiencia puede ser importante; no se demuestra mayor reparación por dosis masivas con niveles adecuados."],
+          ["Vitamina C, zinc y magnesio", "Participan en procesos de los tejidos; su uso necesita una indicación individual."],
+          ["Hierro, vitamina B12 y folato", "Las deficiencias merecen evaluación; no se propone tomarlos automáticamente antes del PRP."],
+          ["Proteínas y péptidos de colágeno", "Su papel nutricional no garantiza reconstruir cartílago ni potenciar un procedimiento."],
+          ["Omega-3, curcumina y otros productos", "Pueden influir en procesos relacionados con inflamación o plaquetas; informá su uso antes de un procedimiento."]
+        ] },
+        { "type": "paragraph", "text": "La arquitectura también menciona vitamina K2, pero la investigación no establece un beneficio específico de su combinación con D3 para mejorar el PRP. Este libro no propone esa combinación como protocolo obligatorio." },
+        { "type": "paragraph", "text": "No se incluyen dosis universales. Llevá una lista de todos los suplementos, incluso los que se venden como naturales." },
+        { "type": "image", "id": "capitulo-4-2", "src": "images/capitulo-4-2.jpg", "alt": "Una pareja de unos sesenta años camina a paso tranquilo por una vereda arbolada, vista de espaldas.", "aspect": "4:3" },
+        { "type": "heading", "text": "Movimiento y descanso" },
+        { "type": "paragraph", "text": "La preparación puede incluir actividad física adaptada y atención al sueño. El médico debe orientarte sobre qué movimientos son adecuados para tu situación y cómo progresar." },
+        { "type": "paragraph", "text": "Estos hábitos acompañan el cuidado del organismo. Los materiales no demuestran que un tipo de ejercicio o una cantidad determinada de descanso antes de la extracción aseguren una mejor respuesta al PRP." },
+        { "type": "note", "text": "**Tu siguiente paso:** elegí un hábito que quieras conversar con el equipo y una dificultad práctica para sostenerlo. Pedir ayuda también forma parte del cuidado." }
+      ]
+    },
+    {
+      "id": "capitulo-5",
+      "title": "Prepararte: antes, durante y después del procedimiento",
+      "kicker": "Capítulo 5",
+      "number": 5,
+      "hero": {
+        "src": "images/capitulo-5-hero.jpg",
+        "alt": "Una sala de espera de clínica, luminosa y tranquila, con una persona sentada de espaldas junto a una ventana.",
+        "aspect": "16:9"
+      },
+      "blocks": [
+        { "type": "heading", "text": "Antes: acordar un plan claro" },
+        { "type": "lead", "text": "La preparación comienza con la historia clínica, la evaluación de tus objetivos y la revisión de medicamentos y suplementos. Según tus antecedentes, el médico decidirá si necesita estudios sobre el azúcar en sangre, el estado nutricional u otros aspectos. No todas las personas requieren los mismos análisis." },
+        { "type": "paragraph", "text": "Recibir información comprensible es parte del consentimiento informado. Antes de firmar, deberías conocer el procedimiento, los beneficios esperados, los riesgos, las alternativas y qué se hará si la respuesta es insuficiente. Leer este libro no sustituye esa conversación ni constituye consentimiento." },
+        { "type": "paragraph", "text": "La participación es compartida: el equipo debe explicar, indicar y acompañar; vos podés aportar información, expresar preferencias y comunicar dificultades. No se trata de prometer un resultado a cambio de cumplir una lista." },
+        { "type": "heading", "text": "Medicamentos: una decisión individual" },
+        { "type": "paragraph", "text": "Los materiales mencionan posibles interacciones de aspirina, ibuprofeno, naproxeno, dosis elevadas de omega-3, curcumina y otros productos con procesos plaquetarios. También incluyen tablas de pausa antes y después del PRP." },
+        { "type": "note", "text": "**Esos plazos no se presentan como instrucciones para suspender tratamientos por tu cuenta.** El motivo por el que usás un medicamento también importa. Cualquier ajuste necesita una indicación individual y, cuando corresponda, coordinación con quien lo prescribió." },
+        { "type": "paragraph", "text": "Pedí un plan escrito que indique:" },
+        { "type": "list", "style": "numbered", "items": [
+          "Qué medicamentos y suplementos mantener.",
+          "Qué productos requieren revisión y quién decide el ajuste.",
+          "Cuándo hacer una pausa y cuándo reiniciar, si se indica.",
+          "Qué podés utilizar para el malestar y cómo comunicarte ante dudas."
+        ] },
+        { "type": "paragraph", "text": "No extiendas una pausa por haber leído que “la inflamación es necesaria”. El cuidado debe considerar tu salud completa." },
+        { "type": "image", "id": "capitulo-5-1", "src": "images/capitulo-5-1.jpg", "alt": "Varias cajas de medicamentos y frascos de suplementos ordenados sobre una mesa junto a una hoja y una lapicera.", "aspect": "4:3" },
+        { "type": "heading", "text": "Lista previa" },
+        { "type": "checklist", "id": "lista-previa", "items": [
+          "Entiendo qué procedimiento se propone y para qué objetivo.",
+          "Conversé sobre beneficios, riesgos, alternativas e incertidumbres.",
+          "Entregué mi lista completa de medicamentos y suplementos.",
+          "Tengo instrucciones individuales sobre preparación y medicación.",
+          "Guardé el test inicial y la actividad que quiero recuperar.",
+          "Sé cómo comunicarme con el equipo después del procedimiento.",
+          "Conozco las pautas de actividad y las señales por las que debo consultar."
+        ] },
+        { "type": "heading", "text": "Durante: saber qué está pasando" },
+        { "type": "paragraph", "text": "Si el procedimiento es PRP, el proceso incluye obtener una muestra de sangre, prepararla y aplicar el producto en la zona indicada. Las otras técnicas requieren una explicación específica." },
+        { "type": "paragraph", "text": "Podés preguntar qué sentirás, cuánto tiempo estiman para la atención y qué cuidados necesitarás al salir. Comunicá cualquier malestar durante el procedimiento." },
+        { "type": "image", "id": "capitulo-5-2", "src": "images/capitulo-5-2.jpg", "alt": "Una mujer mayor baja con cuidado los escalones de la entrada de una clínica, tomada del brazo de un acompañante.", "aspect": "4:3" },
+        { "type": "heading", "text": "Después: avanzar con acompañamiento" },
+        { "type": "paragraph", "text": "La arquitectura contempla reposo relativo y retorno progresivo al ejercicio. Reposo relativo significa adaptar temporalmente la actividad según la indicación recibida; no establece por sí solo una cantidad fija de días." },
+        { "type": "paragraph", "text": "Pedí pautas concretas para caminar, trabajar y volver a tus actividades. También necesitás instrucciones para manejar el malestar y para reconocer qué cambios requieren atención." },
+        { "type": "paragraph", "text": "Los documentos no desarrollan una lista clínica completa de signos de alarma. Por eso, antes de retirarte, solicitá las señales específicas del procedimiento, el contacto del equipo y dónde acudir si necesitás atención. Ante un malestar intenso, inesperado o que empeora, buscá valoración médica; no esperes a completar el próximo test." },
+        { "type": "note", "text": "**Tu seguimiento empieza al salir:** anotá las indicaciones y las dudas que aparezcan. Si una pauta no te resulta clara o posible de cumplir, comunicalo." }
+      ]
+    },
+    {
+      "id": "capitulo-6",
+      "title": "Seguir: medir los cambios y revisar el plan",
+      "kicker": "Capítulo 6",
+      "number": 6,
+      "hero": {
+        "src": "images/capitulo-6-hero.jpg",
+        "alt": "Un hombre de unos sesenta y cinco años sube una escalera exterior de piedra con paso seguro, en una mañana luminosa.",
+        "aspect": "16:9"
+      },
+      "blocks": [
+        { "type": "heading", "text": "Volver a medir con el mismo criterio" },
+        { "type": "lead", "text": "La primera evaluación sirve como referencia. La arquitectura propone controles a **1, 3, 6 y 12 meses**, que el médico puede adaptar a tu evolución. Esos momentos organizan el seguimiento; no son fechas en las que debas alcanzar una mejoría determinada." },
+        { "type": "paragraph", "text": "Para repetir el test, usá las instrucciones del capítulo 0: la misma zona, el período de las últimas 48 horas, la escala de dolor de 0 a 100 y las mismas seis preguntas. Registrá la medicación y cualquier cambio relevante en tus actividades." },
+        { "type": "paragraph", "text": "No compares directamente una suma de 0 a 24 con un WOMAC completo o con otro porcentaje. Si cambia la herramienta, aclaralo antes de interpretar la diferencia." },
+        {
+          "type": "functest",
+          "id": "test-seguimiento",
+          "eyebrow": "Test de Limitación Articular Funcional",
+          "title": "Registrar mi seguimiento",
+          "intro": "Repetí el registro con el mismo criterio del capítulo 0. Queda guardado en este dispositivo y aparece en tu diario, más abajo.",
+          "fichaUrl": "#capitulo-7"
+        },
+        { "type": "heading", "text": "Tu diario de evolución" },
+        { "type": "diary", "id": "diario-evolucion" },
+        { "type": "paragraph", "text": "Guardá también las seis respuestas individuales. La suma puede cambiar poco mientras una actividad importante para vos mejora o empeora." },
+        { "type": "image", "id": "capitulo-6-1", "src": "images/capitulo-6-1.jpg", "alt": "Una libreta abierta con anotaciones a mano y un calendario de pared desenfocado al fondo.", "aspect": "4:3" },
+        { "type": "heading", "text": "Cómo conversar sobre los resultados" },
+        { "type": "paragraph", "text": "Un puntaje menor indica menos molestias o dificultades declaradas en ese registro. Para comprenderlo, también importa saber qué hiciste durante esos días y qué medicación utilizaste." },
+        { "type": "paragraph", "text": "Por ejemplo, sentir menos molestias mientras evitás escaleras no describe la misma situación que subirlas con mayor comodidad. El test ayuda a abrir esa conversación; la evaluación clínica completa le da contexto." },
+        { "type": "paragraph", "text": "Preguntate:" },
+        { "type": "list", "items": [
+          "¿Qué actividad puedo hacer ahora con mayor comodidad?",
+          "¿Qué sigue siendo difícil?",
+          "¿Cambió mi medicación o mi rutina?",
+          "¿Qué quiero revisar con el médico?"
+        ] },
+        { "type": "paragraph", "text": "Una mejoría no demuestra por sí sola que haya crecido cartílago. Un resultado que fluctúa tampoco permite concluir, sin evaluación, que el procedimiento funcionó o falló." },
+        { "type": "image", "id": "capitulo-6-2", "src": "images/capitulo-6-2.jpg", "alt": "Un médico y un paciente, sentados de costado, miran juntos una hoja apoyada sobre el escritorio.", "aspect": "4:3" },
+        { "type": "heading", "text": "Si el cambio es menor al esperado" },
+        { "type": "paragraph", "text": "El seguimiento permite revisar el diagnóstico, los objetivos y la estrategia. No implica repetir automáticamente una aplicación ni sumar suplementos." },
+        { "type": "paragraph", "text": "Compartí cómo te sentís, incluso si tu experiencia no coincide con tus expectativas. Un plan responsable admite ajustes y conversaciones sobre otras opciones." },
+        { "type": "note", "text": "**Si aparecen dificultades nuevas o un empeoramiento que te preocupa, contactá al equipo sin esperar al control programado.** El calendario del test acompaña la atención, no la reemplaza." }
+      ]
+    },
+    {
+      "id": "capitulo-7",
+      "title": "Tu ficha de consulta y cuidado",
+      "kicker": "Capítulo 7",
+      "number": 7,
+      "hero": {
+        "src": "images/capitulo-7-hero.jpg",
+        "alt": "Una carpeta con hojas, una lapicera y un par de anteojos sobre una mesa, listos para llevar a una consulta.",
+        "aspect": "16:9"
+      },
+      "blocks": [
+        { "type": "lead", "text": "Podés copiar esta ficha o imprimirla para llevarla a tu consulta." },
+        { "type": "heading", "text": "Mi punto de partida" },
+        { "type": "fields", "id": "ficha-partida", "prefillNote": true, "fields": [
+          { "id": "nombre", "label": "Nombre" },
+          { "id": "fecha", "label": "Fecha", "source": "date" },
+          { "id": "zona", "label": "Zona o articulación que quiero evaluar", "source": "zone" },
+          { "id": "actividad", "label": "Actividad que quiero recuperar", "source": "activity" },
+          { "id": "dolor", "label": "Dolor en las últimas 48 horas", "suffix": "/100", "source": "pain", "short": true },
+          { "id": "respuestas", "label": "Seis respuestas del cuestionario", "source": "answers" },
+          { "id": "suma", "label": "Suma, solo si está completo", "suffix": "/24", "source": "sum", "short": true },
+          { "id": "medicacion", "label": "Medicamentos y suplementos que utilizo", "source": "meds", "long": true },
+          { "id": "observaciones", "label": "Observaciones o preguntas que no pude responder", "source": "notes", "long": true }
+        ] },
+        { "type": "heading", "text": "Lo que necesito comprender" },
+        { "type": "list", "items": [
+          "¿Cuál es la explicación de mis molestias?",
+          "¿Qué opciones son razonables para mí?",
+          "¿Qué beneficio podemos esperar y qué no podemos prometer?",
+          "¿Qué riesgos y alternativas debo considerar?",
+          "¿Necesito evaluar algún aspecto metabólico o nutricional?",
+          "¿Cómo vamos a medir los cambios y cuándo revisaremos el plan?"
+        ] },
+        { "type": "image", "id": "capitulo-7-1", "src": "images/capitulo-7-1.jpg", "alt": "Una mano guarda una hoja doblada dentro de un bolso apoyado en una silla, junto a la puerta de casa.", "aspect": "4:3" },
+        { "type": "heading", "text": "Si se acuerda un procedimiento" },
+        { "type": "fields", "id": "ficha-procedimiento", "fields": [
+          { "id": "procedimiento", "label": "Procedimiento y objetivo", "long": true },
+          { "id": "preparacion", "label": "Preparación indicada", "long": true },
+          { "id": "plan-medicamentos", "label": "Plan de medicamentos y suplementos", "long": true },
+          { "id": "actividad-permitida", "label": "Actividad permitida y progresión", "long": true },
+          { "id": "malestar", "label": "Manejo del malestar indicado", "long": true },
+          { "id": "senales", "label": "Señales por las que debo consultar", "long": true },
+          { "id": "contacto", "label": "Contacto del equipo y lugar de atención", "long": true },
+          { "id": "control", "label": "Próximo control" }
+        ] },
+        { "type": "print", "text": "Imprimir mi ficha", "note": "Lo que escribís en la ficha se guarda solo en este dispositivo." },
+        { "type": "heading", "text": "Recordatorios para tu cuidado" },
+        { "type": "paragraph", "text": "Medí tu experiencia con honestidad y conservá tus registros. Buscá una alimentación variada y suficiente, conversá sobre el movimiento adecuado para vos y revisá los suplementos con el equipo. No modifiques la medicación sin indicación." },
+        { "type": "paragraph", "text": "El progreso también se reconoce en una actividad cotidiana que vuelve a ser más cómoda. Ese cambio merece ser escuchado junto con los números." }
+      ]
+    },
+    {
+      "id": "invitacion",
+      "title": "Una invitación a comenzar",
+      "kicker": "Para cerrar",
+      "numbered": false,
+      "hero": {
+        "src": "images/invitacion-hero.jpg",
+        "alt": "Una mujer de unos sesenta años abre la puerta de su casa y sale a la calle en una mañana soleada.",
+        "aspect": "16:9"
+      },
+      "blocks": [
+        { "type": "lead", "text": "Tu recorrido puede empezar con algo sencillo: registrar cómo te sentís, nombrar lo que querés recuperar y llevar esas preguntas a una consulta." },
+        { "type": "paragraph", "text": "La atención busca comprender tu situación y acompañarte con decisiones claras, objetivos posibles y seguimiento. La esperanza se sostiene mejor cuando conocés tanto las opciones como sus límites." },
+        { "type": "image", "id": "invitacion-1", "src": "images/invitacion-1.jpg", "alt": "Detalle de unos pies con zapatillas cómodas que dan un paso sobre una vereda con hojas.", "aspect": "4:3" },
+        { "type": "note", "text": "**Completá tu Test de Limitación Articular Funcional y llevá tus resultados a una evaluación médica.**" },
+        { "type": "button", "text": "Registrar mi punto de partida", "url": "#capitulo-0" },
+        { "type": "quote", "text": "“Ciencia que cuida. Regeneración que transforma.”", "attribution": "Dr. Paul Edgar Cuéllar Cabrera · Ortopedia, Traumatología y Medicina Regenerativa" },
+        { "type": "paragraph", "text": "“Una vida sin dolor… es posible.” Es una expresión del propósito de atención, no una garantía de resultado individual." }
+      ]
+    }
+  ]
+}
